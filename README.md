@@ -9,56 +9,91 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Algorithm: 
-Step 1: Define Scope and Objectives
-1.1 Identify the goal of the report (e.g., educational, research, tech overview)
-1.2 Set the target audience level (e.g., students, professionals)
-1.3 Draft a list of core topics to cover
-________________________________________
-Step 2: Create Report Skeleton/Structure
-2.1 Title Page
-2.2 Abstract or Executive Summary
-2.3 Table of Contents
-2.4 Introduction
-2.5 Main Body Sections:
-•	Introduction to AI and Machine Learning
-•	What is Generative AI?
-•	Types of Generative AI Models (e.g., GANs, VAEs, Diffusion Models)
-•	Introduction to Large Language Models (LLMs)
-•	Architecture of LLMs (e.g., Transformer, GPT, BERT)
-•	Training Process and Data Requirements
-•	Use Cases and Applications (Chatbots, Content Generation, etc.)
-•	Limitations and Ethical Considerations
-•	Future Trends
-2.6 Conclusion
-2.7 References
-________________________________________
-Step 3: Research and Data Collection
-3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
-3.2 Extract definitions, explanations, diagrams, and examples
-3.3 Cite all sources properly
-________________________________________
-Step 4: Content Development
-4.1 Write each section in clear, simple language
-4.2 Include diagrams, figures, and charts where needed
-4.3 Highlight important terms and definitions
-4.4 Use examples and real-world analogies for better understanding
-________________________________________
-Step 5: Visual and Technical Enhancement
-5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
-5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
-5.3 Add code snippets or pseudocode for LLM working (optional)
-________________________________________
-Step 6: Review and Edit
-6.1 Proofread for grammar, spelling, and clarity
-6.2 Ensure logical flow and consistency
-6.3 Validate technical accuracy
-6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
-________________________________________
-Step 7: Finalize and Export
-7.1 Format the report professionally
-7.2 Export as PDF or desired format
-7.3 Prepare a brief presentation if required (optional)
+Step 1: Define Objectives
 
+Identify the purpose of the report — academic, technical overview, or research-based.
+
+Understand the level of the target audience — beginners, students, or professionals.
+
+Prepare a list of topics to be covered in the report.
+
+Step 2: Prepare Report Structure
+
+Title Page
+
+Abstract / Summary
+
+Table of Contents
+
+Introduction
+
+Main Chapters
+
+Basics of AI & Machine Learning
+
+What is Generative AI?
+
+Types of Generative AI Models (GANs, VAEs, Diffusion Models)
+
+Introduction to LLMs
+
+Architecture of Transformers (Self-Attention, Encoder-Decoder, Positional Encoding)
+
+How LLMs are Trained
+
+Applications of Generative AI
+
+Ethical Issues & Limitations
+
+Future Scope
+
+Conclusion
+
+References
+
+Step 3: Research and Gather Information
+
+Collect information from journals, research papers, and official AI documentation.
+
+Note down definitions, diagrams, and examples.
+
+Record proper citations for each source.
+
+Step 4: Write the Content
+
+Draft each section using simple and clear explanations.
+
+Add diagrams, flowcharts, and examples for better understanding.
+
+Highlight important technical terms.
+
+Use real-life examples wherever possible.
+
+Step 5: Improve the Report Visually
+
+Add tables or comparison charts (e.g., GPT-3 vs GPT-4).
+
+Use formatting tools like Canva, PowerPoint, or LaTeX for neat presentation.
+
+Include optional code snippets or pseudocode for model working.
+
+Step 6: Review and Edit
+
+Check for grammar and spelling errors.
+
+Ensure smooth flow between sections.
+
+Verify technical correctness.
+
+If possible, get feedback from peers or use tools like Grammarly/ChatGPT.
+
+Step 7: Final Submission
+
+Format the report professionally.
+
+Export as a PDF.
+
+Prepare a short presentation if needed.
 
 # Output
 # Comprehensive Report on Generative AI  
@@ -122,7 +157,7 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Components**:  
   - **Encoder**: Processes input data and encodes it into a rich representation.  
   - **Decoder**: Generates output from the encoded representation, used for tasks like text generation and translation.  
-![image](https://github.com/user-attachments/assets/e278b3c4-f439-44d6-a649-1c45ab64575f)
+
 
 ## 4.2. Training  
 
